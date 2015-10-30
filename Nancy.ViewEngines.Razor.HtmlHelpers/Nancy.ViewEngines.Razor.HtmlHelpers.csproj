@@ -7,8 +7,8 @@
     <ProjectGuid>{7499A582-DA5A-4322-829B-50ED6BDC6845}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>Nancy.ViewEngines.Razor.HtmlHelpers</RootNamespace>
-    <AssemblyName>Nancy.ViewEngines.Razor.HtmlHelpers</AssemblyName>
+    <RootNamespace>Nancy.ViewEngines.Razor.HtmlHelperExtensions</RootNamespace>
+    <AssemblyName>Nancy.ViewEngines.Razor.HtmlHelperExtensions</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <SolutionDir Condition="$(SolutionDir) == '' Or $(SolutionDir) == '*Undefined*'">..\</SolutionDir>

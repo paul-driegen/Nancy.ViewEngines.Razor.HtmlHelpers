@@ -1,4 +1,4 @@
-﻿namespace Nancy.ViewEngines.Razor.HtmlHelpers.Tests
+﻿namespace Nancy.ViewEngines.Razor.HtmlHelperExtensions.Tests
 {
     using Xunit;
 

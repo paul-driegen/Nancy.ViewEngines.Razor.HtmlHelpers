@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel;
 
-namespace Nancy.ViewEngines.Razor.HtmlHelpers
+namespace Nancy.ViewEngines.Razor.HtmlHelperExtensions
 {
     public static class TypeHelper
     {
